@@ -20,3 +20,29 @@
     </tr>
   </tbody>
 </table>
+<table>
+    <tr>
+        <th></th>
+        <th>advantage</th>
+        <th>disadvantage </th>
+    </tr>
+    <tr>
+        <th rowspan="2">Cloud Computing</th>
+        <td>convenient and flexible</td>
+        <td>need network access</td>
+    </tr>
+    <tr>
+        <td>low performance required for local hardware</td>
+        <td>higher delay, hard to be real-time</td>
+    </tr>
+    <tr>
+        <th rowspan="2">Edge computing</th>
+        <td>offline</td>
+        <td>performance depend on local hardware</td>
+    </tr>
+    <tr>
+        <td>low delay</td>
+        <td>run in more restricted environment since the devices generate lots of heat</td>
+    </tr>
+
+</table>
