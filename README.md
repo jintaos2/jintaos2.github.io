@@ -15,7 +15,7 @@
     <tr>
        <td align="center" valign="middle">
         <a href="https://t.1yb.co/iskv">
-         <img src="./media/sponsor/知识星球.png" style="margin: 0 auto;width:50px" /></a>
+         <img src="https://img.shields.io/github/stars/Snailclimb/JavaGuide" style="margin: 0 200px;width:50px" /></a>
       </td>       
     </tr>
   </tbody>
